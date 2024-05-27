@@ -1,0 +1,29 @@
+## Market Prediction
+# Table of Contents
+# Introduction
+# Objective
+# Data Description
+# Methodology
+Data Preprocessing
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Model Selection and Training
+Model Evaluation
+Fine-tuning and Validation
+Results
+Conclusion
+References
+Appendices (if any)
+1. Introduction
+Provide an overview of the project. Explain why forecasting commodity prices and quantities is important and how it can benefit stakeholders.
+
+2. Objective
+State the primary objective of the project:
+
+Objective: To develop a robust time series machine learning model capable of accurately forecasting market trends based on historical data.
+3. Data Description
+Describe the dataset used in the project:
+
+Columns: market, month, year, quantity, priceMin, priceMax, priceMod, state, city, date
+4. Methodology
+Explain each step taken in the project in detail.
